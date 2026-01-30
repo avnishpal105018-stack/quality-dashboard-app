@@ -1,0 +1,7 @@
+{
+  "name": "Kimbal Technology - Quality MIS",
+  "description": "A professional industrial quality monitoring system for Kimbal Technology, featuring role-based access, multi-module coding area tracking, and advanced real-time dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
